@@ -8,7 +8,7 @@
 
 📈 Passionate about unlocking the mysteries behind data and exploring new methods for learning from data! Interests lie in Tecnology, Economics, and Finance.
 
-🔗 Connect with me on [LinkedIn][https://www.linkedin.com/in/liangderic5299/] and view my repositories below!
+🔗 Connect with me on ![LinkedIn][https://www.linkedin.com/in/liangderic5299/] and view my repositories below!
 
 ⚡ Fun fact: I have a small chihuahua mix named Pork 🐾 Please give me an excuse to tell you all about him!
 
