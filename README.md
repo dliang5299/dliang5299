@@ -23,9 +23,3 @@
 [![My Skills](https://skillicons.dev/icons?i=py,r,postgres,tensorflow,sklearn,vscode,sublime,linux,ubuntu,aws,docker,git,github)](https://skillicons.dev)
 
 <br>
-
----
-
-<br>
-
-![Deric's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=dliang5299&theme=gruvbox)
