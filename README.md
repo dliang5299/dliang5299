@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://github.com/dliang5299/dliang5299/blob/main/header.png">
+
 <!--
 **dliang5299/dliang5299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
