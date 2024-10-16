@@ -1,4 +1,4 @@
-## Hi there 👋
+## Deric Liang's GitHub Profile 📊
 
 <img src="https://github.com/dliang5299/dliang5299/blob/main/header.png">
 
