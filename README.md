@@ -2,17 +2,26 @@
 
 <img src="https://github.com/dliang5299/dliang5299/blob/main/header.png">
 
-<!--
-**dliang5299/dliang5299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍🎓 Master of Information and Data Science student at the University of California, Berkeley
 
-Here are some ideas to get you started:
+🏢 Senior Consultant at Bates White Economic Consulting. Constructing data pipelines to wrangle raw data sources, identify secondary data, implement multi-stage data matching algorithms, and prepare damages valuation models & forecasts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Passionate about unlocking the mysteries behind data and exploring new methods for learning from data! Interests lie in Tecnology, Economics, and Finance.
+
+🔗 Connect with me on [LinkedIn][https://www.linkedin.com/in/liangderic5299/] and view my repositories below!
+
+⚡ Fun fact: I have a small chihuahua mix named Pork 🐾 Please give me an excuse to tell you all about him!
+
+<br>
+
+---
+
+<br>
+
+🌐 **Languages and Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=py,r,postgres,tensorflow,sklearn,vscode,sublime,linux,ubuntu,aws,docker,git,github)](https://skillicons.dev)
+
+<br>
+
+---
