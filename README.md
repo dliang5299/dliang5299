@@ -4,7 +4,7 @@
 
 👨🏻‍🎓 Master of Information and Data Science student at the University of California, Berkeley
 
-🏢 Senior Consultant at Bates White Economic Consulting. Constructing data pipelines to wrangle raw data sources, identify secondary data, implement multi-stage data matching algorithms, and prepare damages valuation models & forecasts.
+🏢 Senior Consultant and Data Scientist at Bates White Economic Consulting. Constructing data pipelines to wrangle raw data sources, identify secondary data, implement multi-stage data matching algorithms, and prepare damages valuation models & forecasts.
 
 📈 Passionate about unlocking the mysteries behind data and exploring new methods for learning from data! Interests lie in Tecnology, Economics, and Finance.
 
