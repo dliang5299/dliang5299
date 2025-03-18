@@ -2,7 +2,7 @@
 
 <img src="https://github.com/dliang5299/dliang5299/blob/main/header.png">
 
-👨🏻‍🎓 Master of Information and Data Science student at the University of California, Berkeley
+👨🏻‍🎓 Master of Information and Data Science student at the University of California, Berkeley. Interested in NLP, GenAI, and predictive analytics.
 
 🏢 Senior Consultant and Data Scientist at Bates White Economic Consulting. Constructing data pipelines to wrangle raw data sources, identify secondary data, implement multi-stage data matching algorithms, and prepare damages valuation models & forecasts.
 
